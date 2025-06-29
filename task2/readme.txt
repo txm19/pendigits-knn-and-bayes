@@ -1,6 +1,3 @@
-Name: Tista Manandhar  
-UTA ID: 1002078930  
-
 Language: Python 3.10
 
 How the code is structured:
